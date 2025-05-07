@@ -34,8 +34,8 @@ assetsSummary:
   - ProcessingModule
   - ElectricalSeries
   - ElectrodeGroup
-citation: Breathing rhythm and place dataset (2025). (Version draft) [Data set]. DANDI
-  Archive. https://dandiarchive.org/dandiset/001433/draft
+citation: Breathing rhythm and place dataset (2025). (Version 0.250507.2356) [Data
+  set]. DANDI Archive. https://doi.org/10.48324/dandi.001433/0.250507.2356
 contributor:
 - awardNumber: 1 R01 NS 123903-03
   name: National Institutes of Health (NIH)
@@ -57,13 +57,14 @@ datePublished: '2025-05-07T23:56:47.954574+00:00'
 description: These are behavioral and electrophysiological data from recordings of
   sniffing, video, and OB electrophysiology in freely-behaving mice given no stimulus,
   reward, or task. 1 1 R01 NS 123903
+doi: 10.48324/dandi.001433/0.250507.2356
 ethicsApproval: []
-id: DANDI:001433/draft
+id: DANDI:001433/0.250507.2356
 identifier: DANDI:001433
 license:
 - spdx:CC-BY-4.0
 manifestLocation:
-- https://api.dandiarchive.org/api/dandisets/001433/versions/draft/assets/
+- https://dandiarchive.s3.amazonaws.com/dandisets/001433/0.250507.2356/assets.yaml
 name: Breathing rhythm and place dataset
 publishedBy:
   endDate: '2025-05-07T23:56:47.954574+00:00'
@@ -81,6 +82,6 @@ relatedResource: []
 repository: https://dandiarchive.org
 schemaKey: Dandiset
 schemaVersion: 0.6.9
-url: https://dandiarchive.org/dandiset/001433/draft
-version: draft
+url: https://dandiarchive.org/dandiset/001433/0.250507.2356
+version: 0.250507.2356
 wasGeneratedBy: []
